@@ -3,6 +3,8 @@ content_type: page
 description: In this section Professor Brian Williams describes various aspects of
   how he teaches 16.412 Cognitive Robotics.
 draft: false
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -79,7 +81,7 @@ Another piece of the assessment puzzle is providing good feedback. The place whe
 
 **OCW**: What about scholars with advanced knowledge of cognitive robotics? How do you engage them?
 
-**Brian Williams:** For research scientists around the world, we have the {{% resource_link "0a1e7662-7998-41a7-bb51-a9863489c2be" "Summer School on Cognitive Robotics" %}}. It’s five days long, and revolves around a grand challenge. But rather than me giving the lectures, several top people from the field give 15 tutorials. Often researchers become so specialized in their niche areas of inquiry, they lose sight of how their piece of the puzzle fits with all of the others. The Summer Schools helps researchers see the big picture. It builds community.
+**Brian Williams:** For research scientists around the world, we have the [Summer School on Cognitive Robotics](http://cognitive-robotics.csail.mit.edu/). It’s five days long, and revolves around a grand challenge. But rather than me giving the lectures, several top people from the field give 15 tutorials. Often researchers become so specialized in their niche areas of inquiry, they lose sight of how their piece of the puzzle fits with all of the others. The Summer Schools helps researchers see the big picture. It builds community.
 
 **OCW**: It’s interesting that you have the goal of figuring out cognitive robotics as a field, but also how to teach it to others.
 
@@ -97,7 +99,7 @@ Another piece of the assessment puzzle is providing good feedback. The place whe
 
 ### Requirements Satisfied
 
-_16.412 Cognitive Robotics_ can be applied toward a {{% resource_link "f0c71479-7219-43c0-81e5-07a4727fe1e9" "doctorate degree in Aeronautics and Astronautics" %}}.
+_16.412 Cognitive Robotics_ can be applied toward a [doctorate degree in Aeronautics and Astronautics](http://catalog.mit.edu/schools/engineering/aeronautics-astronautics/#phd-scd).
 
 ### Offered
 

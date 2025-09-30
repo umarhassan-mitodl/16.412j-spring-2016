@@ -13,7 +13,7 @@ All reading assignments, if available, are listed below.
 
 ## Reading for Lecture 1
 
-Williams, Brian C., Michel D. Ingham, et al. "{{% resource_link "b68f290b-2d77-4944-a360-e5ac661a2b2b" "Model-based Programming of Fault-aware Systems" %}}." *AI Magazine* 24, no. 4 (2016). (American Association for Artificial Intelligence)
+Williams, Brian C., Michel D. Ingham, et al. "[Model-based Programming of Fault-aware Systems](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1731)." *AI Magazine* 24, no. 4 (2016). (American Association for Artificial Intelligence)
 
 ## Prerequisite Readings for Lecture 2
 
@@ -23,10 +23,10 @@ Williams, Brian C., Michel D. Ingham, et al. "{{% resource_link "b68f290b-2d77-4
 
 ## Additional Reading for Lecture 2
 
-Williams, Brian C., and Robert J. Ragno. "{{% resource_link "e08695fa-f858-44bc-aed0-09c9d775a517" "Conflict-directed A\* and Its Role in Model Based Embedded Systems" %}}." *Discrete Applied Mathematics* 155, no. 12 (2007): 1562–95. (Elsevier)
+Williams, Brian C., and Robert J. Ragno. "[Conflict-directed A\* and Its Role in Model Based Embedded Systems](https://dx.doi.org/10.1016/j.dam.2005.10.022)." *Discrete Applied Mathematics* 155, no. 12 (2007): 1562–95. (Elsevier)
 
 ## Additional Reading for Lecture 4
 
-Dechter, Rina, I. Meiri, et al. "{{% resource_link "aa0401bc-121d-47f2-abee-494b843f9b52" "Temporal Constraint Networks" %}}." *Artificial Intelligence* 49, no. 1–3 (1991): 61–95. (Elsevier)
+Dechter, Rina, I. Meiri, et al. "[Temporal Constraint Networks](https://doi.org/10.1016/0004-3702%2891%2990006-6)." *Artificial Intelligence* 49, no. 1–3 (1991): 61–95. (Elsevier)
 
-Muscettola, Nicola, Paul Morris, et al. "{{% resource_link "50e072df-6d02-41f0-a97c-da39329381bb" "Reformulating Temporal Plans for Efficient Execution" %}}." *Citeseerx* (1998): 254–61. (AAAI '98 / IAAI '98 Proceedings of the fifteenth national / tenth conference on Artificial intelligence / Innovative applications of artificial intelligence)
+Muscettola, Nicola, Paul Morris, et al. "[Reformulating Temporal Plans for Efficient Execution](https://web.archive.org/web/20220122061426/https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.56.8035)." *Citeseerx* (1998): 254–61. (AAAI '98 / IAAI '98 Proceedings of the fifteenth national / tenth conference on Artificial intelligence / Innovative applications of artificial intelligence)

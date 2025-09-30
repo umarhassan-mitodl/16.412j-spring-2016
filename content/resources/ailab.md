@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-412j-cognitive-robotics-spring-2016/5182a9180eb6ba25f558a774f71c056f_AILab.jpg
 file_size: 33979
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

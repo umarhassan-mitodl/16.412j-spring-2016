@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-412j-cognitive-robotics-spring-2016/b53bac25200f69d6a35543610c6c8012_robot.jpg
 file_size: 27477
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

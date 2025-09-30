@@ -28,6 +28,7 @@
     "website": "16-412j-cognitive-robotics-spring-2016"
   },
   "course_title": "Cognitive Robotics",
+  "hide_download": true,
   "course_description": "This is a class about applying autonomy to real-world systems. The overarching theme uniting the many different topics in this course will center around programming a cognitive robotic. This class takes the approach of introducing new reasoning techniques and ideas incrementally. We start with the current paradigm of programming you're likely familiar with, and evolve it over the semester\u2014continually adding in new features and reasoning capabilities\u2014ending with a robust, intelligent system. These techniques and topics will include algorithms for allowing a robot to: Monitor itself for potential problems (both observable and hidden), scheduling tasks in time, coming up with novel plans to achieve desired goals over time, dealing with the continuous world, collaborating with other (autonomous) agents, dealing with risk, and more.\n",
   "department_numbers": [
     "16",
@@ -39,6 +40,7 @@
     "content": "817bc8bd-b445-a8a4-b814-47f6546ff194",
     "website": "16-412j-cognitive-robotics-spring-2016"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Programming Assignments",
