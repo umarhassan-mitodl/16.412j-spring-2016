@@ -5,8 +5,6 @@ description: 'This resource contains information regarding cognitive robotics: P
 file: /courses/16-412j-cognitive-robotics-spring-2016/cefcbd57980d865441d115e5c2155b6a_MIT16_412JS16_Assignment5.pdf
 file_size: 1300758
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

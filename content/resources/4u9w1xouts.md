@@ -4,8 +4,6 @@ description: ''
 file: /courses/16-412j-cognitive-robotics-spring-2016/5b18b503129d5f82bbe59d29e350ecef_4u9W1xOuts.srt
 file_size: 128920
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

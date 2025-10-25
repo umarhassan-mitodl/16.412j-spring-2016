@@ -2,8 +2,6 @@
 content_type: page
 description: This page provides the class schedule for the MIT course 16.412J Cognitive
   Robotics of Spring 2016, taught by Prof. Brian Williams.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
