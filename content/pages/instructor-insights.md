@@ -3,8 +3,6 @@ content_type: page
 description: In this section Professor Brian Williams describes various aspects of
   how he teaches 16.412 Cognitive Robotics.
 draft: false
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
