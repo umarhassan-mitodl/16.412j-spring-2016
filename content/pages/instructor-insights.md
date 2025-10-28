@@ -79,7 +79,7 @@ Another piece of the assessment puzzle is providing good feedback. The place whe
 
 **OCW**: What about scholars with advanced knowledge of cognitive robotics? How do you engage them?
 
-**Brian Williams:** For research scientists around the world, we have the [Summer School on Cognitive Robotics](http://cognitive-robotics.csail.mit.edu/). It’s five days long, and revolves around a grand challenge. But rather than me giving the lectures, several top people from the field give 15 tutorials. Often researchers become so specialized in their niche areas of inquiry, they lose sight of how their piece of the puzzle fits with all of the others. The Summer Schools helps researchers see the big picture. It builds community.
+**Brian Williams:** For research scientists around the world, we have the {{% resource_link "ba0818bf-fe74-4be6-ae17-815ba9ad8268" "Summer School on Cognitive Robotics" %}}. It’s five days long, and revolves around a grand challenge. But rather than me giving the lectures, several top people from the field give 15 tutorials. Often researchers become so specialized in their niche areas of inquiry, they lose sight of how their piece of the puzzle fits with all of the others. The Summer Schools helps researchers see the big picture. It builds community.
 
 **OCW**: It’s interesting that you have the goal of figuring out cognitive robotics as a field, but also how to teach it to others.
 
@@ -97,7 +97,7 @@ Another piece of the assessment puzzle is providing good feedback. The place whe
 
 ### Requirements Satisfied
 
-_16.412 Cognitive Robotics_ can be applied toward a [doctorate degree in Aeronautics and Astronautics](http://catalog.mit.edu/schools/engineering/aeronautics-astronautics/#phd-scd).
+_16.412 Cognitive Robotics_ can be applied toward a {{% resource_link "cfdc3910-3448-42f4-84cf-cacae5c42235" "doctorate degree in Aeronautics and Astronautics" %}}.
 
 ### Offered
 
